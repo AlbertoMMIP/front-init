@@ -9,8 +9,8 @@ Material UI
 Context
 
 # Start the project
-yarn i
+yarn install
 yarn start
 
 # See
-http://localhost:3000/
+http://localhost:3001/
